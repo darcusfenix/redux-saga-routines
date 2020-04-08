@@ -79,6 +79,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "redux-actions": "^2.2.1"
+    "redux-actions": "^2.6.5"
   }
 }
